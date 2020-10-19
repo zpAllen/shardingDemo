@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a21a3c58-3cd2-40ee-9847-6458ee319967" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/apache-maven-3.3.9" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cnTkaHOMdu8pcGvMeizvEz4SKv" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../springCloudDemo" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.20114942" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GIT_ZP\shardingDemo\src\main\resources" />
+      <recent name="D:\GIT_ZP\shardingDemo\src\main" />
+    </key>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="Found 2 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+        </path>
+        <path>
+          <item name="Found 2 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+          <item name="shardingDemo" type="c588b436:RestServiceStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="RunManager" selected="Application.JapiDocsConfig">
+    <configuration name="JapiDocsConfig" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.allen.config.JapiDocsConfig" />
+      <module name="shardingDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.allen.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShardingAppServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="shardingDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.allen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.allen.ShardingAppServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JapiDocsConfig" />
+        <item itemvalue="Spring Boot.ShardingAppServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a21a3c58-3cd2-40ee-9847-6458ee319967" name="Default Changelist" comment="" />
+      <created>1591163510089</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591163510089</updated>
+      <workItem from="1591163545654" duration="410000" />
+      <workItem from="1591164121527" duration="5611000" />
+      <workItem from="1591170757076" duration="12038000" />
+      <workItem from="1591235311119" duration="1794000" />
+      <workItem from="1591244775857" duration="235000" />
+      <workItem from="1591245105482" duration="417000" />
+      <workItem from="1591246247257" duration="35228000" />
+      <workItem from="1591608056183" duration="8347000" />
+      <workItem from="1591770493132" duration="4519000" />
+      <workItem from="1592207778771" duration="5733000" />
+      <workItem from="1593674777051" duration="1863000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="94" key="#com.intellij.ide.util.MemberChooser" timestamp="1591335029200">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="488" y="94" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1591335029200" />
+    <state width="969" height="656" key="DebuggerActiveHint" timestamp="1592211060501">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="969" height="656" key="DebuggerActiveHint/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1592211060501" />
+    <state width="689" height="466" key="DebuggerActiveHint/0.0.1366.768@0.0.1366.768" timestamp="1591333123615" />
+    <state x="324" y="97" key="FileChooserDialogImpl" timestamp="1593741268511">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="324" y="97" key="FileChooserDialogImpl/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1593741268511" />
+    <state x="324" y="97" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1591177411684" />
+    <state width="1323" height="205" key="GridCell.Tab.0.bottom" timestamp="1592300625848">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="205" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1592300625848" />
+    <state width="1877" height="433" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1592211279190" />
+    <state width="1323" height="238" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1591344032868" />
+    <state width="1323" height="205" key="GridCell.Tab.0.center" timestamp="1592300625848">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="205" key="GridCell.Tab.0.center/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1592300625848" />
+    <state width="1877" height="433" key="GridCell.Tab.0.center/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1592211279189" />
+    <state width="1323" height="238" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1591344032868" />
+    <state width="1323" height="205" key="GridCell.Tab.0.left" timestamp="1592300625847">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="205" key="GridCell.Tab.0.left/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1592300625847" />
+    <state width="1877" height="433" key="GridCell.Tab.0.left/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1592211279188" />
+    <state width="1323" height="238" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1591344032868" />
+    <state width="1323" height="205" key="GridCell.Tab.0.right" timestamp="1592300625848">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="205" key="GridCell.Tab.0.right/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1592300625848" />
+    <state width="1877" height="433" key="GridCell.Tab.0.right/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1592211279190" />
+    <state width="1323" height="238" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1591344032868" />
+    <state width="1877" height="433" key="GridCell.Tab.1.bottom" timestamp="1592211279191">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1323" height="450" key="GridCell.Tab.1.bottom/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1591686209645" />
+    <state width="1877" height="433" key="GridCell.Tab.1.bottom/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1592211279191" />
+    <state width="1323" height="238" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1591344032868" />
+    <state width="1877" height="433" key="GridCell.Tab.1.center" timestamp="1592211279191">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1323" height="450" key="GridCell.Tab.1.center/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1591686209645" />
+    <state width="1877" height="433" key="GridCell.Tab.1.center/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1592211279190" />
+    <state width="1323" height="238" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1591344032868" />
+    <state width="1877" height="433" key="GridCell.Tab.1.left" timestamp="1592211279190">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1323" height="450" key="GridCell.Tab.1.left/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1591686209645" />
+    <state width="1877" height="433" key="GridCell.Tab.1.left/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1592211279190" />
+    <state width="1323" height="238" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1591344032868" />
+    <state width="1877" height="433" key="GridCell.Tab.1.right" timestamp="1592211279191">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1323" height="450" key="GridCell.Tab.1.right/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1591686209645" />
+    <state width="1877" height="433" key="GridCell.Tab.1.right/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1592211279191" />
+    <state width="1323" height="238" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1591344032868" />
+    <state width="1323" height="450" key="GridCell.Tab.2.bottom" timestamp="1591686209645">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="450" key="GridCell.Tab.2.bottom/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1591686209645" />
+    <state width="1877" height="362" key="GridCell.Tab.2.bottom/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1591425062264" />
+    <state width="1323" height="238" key="GridCell.Tab.2.bottom/0.0.1366.768@0.0.1366.768" timestamp="1591344032869" />
+    <state width="1323" height="450" key="GridCell.Tab.2.center" timestamp="1591686209645">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="450" key="GridCell.Tab.2.center/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1591686209645" />
+    <state width="1877" height="362" key="GridCell.Tab.2.center/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1591425062264" />
+    <state width="1323" height="238" key="GridCell.Tab.2.center/0.0.1366.768@0.0.1366.768" timestamp="1591344032868" />
+    <state width="1323" height="450" key="GridCell.Tab.2.left" timestamp="1591686209645">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="450" key="GridCell.Tab.2.left/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1591686209645" />
+    <state width="1877" height="362" key="GridCell.Tab.2.left/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1591425062264" />
+    <state width="1323" height="238" key="GridCell.Tab.2.left/0.0.1366.768@0.0.1366.768" timestamp="1591344032868" />
+    <state width="1323" height="450" key="GridCell.Tab.2.right" timestamp="1591686209645">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="450" key="GridCell.Tab.2.right/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1591686209645" />
+    <state width="1877" height="362" key="GridCell.Tab.2.right/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1591425062264" />
+    <state width="1323" height="238" key="GridCell.Tab.2.right/0.0.1366.768@0.0.1366.768" timestamp="1591344032868" />
+    <state x="213" y="39" key="Maven.ArtifactSearchDialog" timestamp="1591170416217">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="213" y="39" key="Maven.ArtifactSearchDialog/0.0.1366.768@0.0.1366.768" timestamp="1591170416217" />
+    <state x="1552" y="25" width="1024" height="715" key="SettingsEditor" timestamp="1592209569174">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1591796358886" />
+    <state x="1552" y="25" key="SettingsEditor/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1592209569174" />
+    <state x="163" y="0" width="1024" height="715" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1591244965651" />
+    <state width="1364" height="766" key="com.intellij.byteCodeViewer.ShowByteCodeAction" timestamp="1591608640717">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1364" height="766" key="com.intellij.byteCodeViewer.ShowByteCodeAction/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1591608640717" />
+    <state x="363" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1593674818500">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="363" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1593674818500" />
+    <state x="1876" y="293" key="com.intellij.ide.util.TipDialog/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1592207822132" />
+    <state x="363" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1591245114721" />
+    <state x="273" y="84" width="960" height="601" key="find.popup" timestamp="1591688075665">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="273" y="84" width="960" height="601" key="find.popup/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1591688075665" />
+    <state x="1750" y="118" width="1348" height="844" key="find.popup/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1591429206055" />
+    <state x="273" y="84" width="959" height="600" key="find.popup/0.0.1366.768@0.0.1366.768" timestamp="1591261458199" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1591250008190">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1591250008190" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/allen/service/impl/ShardServiceImpl.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/shardingsphere/sharding-core-common/4.0.0-RC1/sharding-core-common-4.0.0-RC1-sources.jar!/org/apache/shardingsphere/core/yaml/swapper/impl/ShardingRuleConfigurationYamlSwapper.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/io/github/yedaxia/japidocs/1.3/japidocs-1.3-sources.jar!/io/github/yedaxia/apidocs/DocContext.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/allen/shardingAlgorithm/MyPreciseShardingAlgorithm.java</url>
+          <line>18</line>
+          <properties class="com.allen.shardingAlgorithm.MyPreciseShardingAlgorithm" method="doSharding">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/shardingDemo$ShardingAppServer.ic" NAME="ShardingAppServer Coverage Results" MODIFIED="1591173012988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.allen.*</FILTER>
+    </SUITE>
+  </component>
+</project>

@@ -1,0 +1,24 @@
+spring:
+  application:
+    name: shardingServe
+  main:
+    allow-bean-definition-overriding: true #当遇到同样名字的时候，是否允许覆盖注册
+  profiles:
+    active: shardingJDBC #sharding-jdbc单独的yml文件配置数据源，注释掉就是用sharding-proxy，记得开启docker服务
+  jpa:
+    database: mysql
+    database-platform: org.hibernate.dialect.MySQL5InnoDBDialect  #不加这句则默认为myisam引擎
+    hibernate:
+      ddl-auto: none
+      naming:
+        physical-strategy: org.springframework.boot.orm.jpa.hibernate.SpringPhysicalNamingStrategy
+    open-in-view: true
+    properties:
+      enable_lazy_load_no_trans: true
+    show-sql: true
+
+  datasource: #这里使用sharding-proxy server.yaml文件里面配置验证信息   默认端口3307 可以自定义
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://192.168.137.200:3307/sharding_db?useUnicode=true&useSSL=false&characterEncoding=utf8&serverTimezone=UTC
+    username: root
+    password: root

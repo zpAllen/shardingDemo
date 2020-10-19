@@ -1,0 +1,4 @@
+com\allen\controller\ShardingController.class
+com\allen\entity\StudentEO.class
+com\allen\service\ShardService.class
+com\allen\shardingAlgorithm\MyPreciseShardingAlgorithm.class

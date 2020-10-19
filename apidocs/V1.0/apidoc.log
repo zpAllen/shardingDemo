@@ -1,0 +1,20 @@
+六月 15, 2020 4:54:41 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: find java src paths:  [D:\GIT_ZP\shardingDemo\src\main\java\]
+六月 15, 2020 4:54:41 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: project type not set, try to figure out...
+六月 15, 2020 4:54:42 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: start find controllers in path : D:\GIT_ZP\shardingDemo\src\main\java\
+六月 15, 2020 4:54:42 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: find controller file : ShardingController.java
+六月 15, 2020 4:54:42 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: generate api docs start...
+六月 15, 2020 4:54:42 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: start to parse controller file : ShardingController.java
+六月 15, 2020 4:54:42 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: success to parse controller file : ShardingController.java
+六月 15, 2020 4:54:42 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: start to generate docs for controller file : D:\GIT_ZP\shardingDemo\src\main\java\com\allen\controller\ShardingController.java
+六月 15, 2020 4:54:43 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: success to generate docs for controller file : D:\GIT_ZP\shardingDemo\src\main\java\com\allen\controller\ShardingController.java
+六月 15, 2020 4:54:43 下午 io.github.yedaxia.apidocs.LogUtils info
+信息: info: generate api docs done !!!

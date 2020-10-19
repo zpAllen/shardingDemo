@@ -1,0 +1,8 @@
+D:\GIT_ZP\shardingDemo\src\main\java\com\allen\config\JapiDocsConfig.java
+D:\GIT_ZP\shardingDemo\src\main\java\com\allen\entity\StudentEO.java
+D:\GIT_ZP\shardingDemo\src\main\java\com\allen\service\ShardService.java
+D:\GIT_ZP\shardingDemo\src\main\java\com\allen\controller\ShardingController.java
+D:\GIT_ZP\shardingDemo\src\main\java\com\allen\shardingAlgorithm\MyPreciseShardingAlgorithm.java
+D:\GIT_ZP\shardingDemo\src\main\java\com\allen\ShardingAppServer.java
+D:\GIT_ZP\shardingDemo\src\main\java\com\allen\repository\ShardRepository.java
+D:\GIT_ZP\shardingDemo\src\main\java\com\allen\service\impl\ShardServiceImpl.java

@@ -1,0 +1,25 @@
+spring:
+  # shardingsphere 分片配置
+  shardingsphere:
+    #enabled: true #开启sharding分片配置
+    datasource:
+      names: db0 #多个数据源使用逗号隔开
+      db0:
+        type: com.alibaba.druid.pool.DruidDataSource #数据库连接池类名称 必须配置 不配置会报错
+        driver-class-name: com.mysql.jdbc.Driver
+        url: jdbc:mysql://192.168.137.200:3306/shard_1?useUnicode=true&useSSL=false&characterEncoding=utf8&serverTimezone=UTC
+        username: root
+        password: admin
+        max-active: 16
+    sharding:
+      tables:
+        student:  #需要分表的逻辑表名
+          actual-data-nodes: db0.student_$->{0..1} #由数据源名 + 表名组成，以小数点分隔。注意！！！！此处是上面定义的数据源名，不是数据库的名字
+          #分表策略  database-strategy是分库策略
+          table-strategy:
+            inline:
+              sharding-column: stu_id  #分片列
+              algorithm-expression: student_$->{stu_id % 2}  #分片算法行表达式  此处使用的取模算法 需要复合groovy表达式
+    props:
+      sql:
+        show: true # 开启SQL显示，默认值: false，注意：仅配置读写分离时不会打印日志！！！
